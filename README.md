@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 # Contact
 
 
-For questions, suggestions, or issues, please contact [Your Name] at mailto:your-email@example.com.
+For questions, suggestions, or issues, please contact Joseph Larbi at mailto:larbijose9@gmail.com
 
 # Change Log
 
